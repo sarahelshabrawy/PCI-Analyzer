@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects AMK\\Diestrassen\\Yarab\\PCI Analyzer\\PCI Analyzer\\PCI Analyzer.csproj": {}
+    "D:\\Projects AMK\\Diestrassen\\PCI Analyzer\\PCI Analyzer\\PCI Analyzer\\PCI Analyzer.csproj": {}
   },
   "projects": {
-    "D:\\Projects AMK\\Diestrassen\\Yarab\\PCI Analyzer\\PCI Analyzer\\PCI Analyzer.csproj": {
+    "D:\\Projects AMK\\Diestrassen\\PCI Analyzer\\PCI Analyzer\\PCI Analyzer\\PCI Analyzer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects AMK\\Diestrassen\\Yarab\\PCI Analyzer\\PCI Analyzer\\PCI Analyzer.csproj",
+        "projectUniqueName": "D:\\Projects AMK\\Diestrassen\\PCI Analyzer\\PCI Analyzer\\PCI Analyzer\\PCI Analyzer.csproj",
         "projectName": "PCI Analyzer",
-        "projectPath": "D:\\Projects AMK\\Diestrassen\\Yarab\\PCI Analyzer\\PCI Analyzer\\PCI Analyzer.csproj",
+        "projectPath": "D:\\Projects AMK\\Diestrassen\\PCI Analyzer\\PCI Analyzer\\PCI Analyzer\\PCI Analyzer.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects AMK\\Diestrassen\\Yarab\\PCI Analyzer\\PCI Analyzer\\obj\\",
+        "outputPath": "D:\\Projects AMK\\Diestrassen\\PCI Analyzer\\PCI Analyzer\\PCI Analyzer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
