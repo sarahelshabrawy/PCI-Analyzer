@@ -1,7 +1,0 @@
-{
-  "name": "PCI Analyzer",
-  "version": "1.0.0",
-  "dependencies": {
-    "ol": "^6.6.1"
-  }
-}
