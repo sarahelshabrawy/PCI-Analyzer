@@ -704,3 +704,6 @@ D:\Projects AMK\Diestrassen\PCI Analyzer\PCI Analyzer\PCI Analyzer\obj\Debug\net
 D:\Projects AMK\Diestrassen\PCI Analyzer\PCI Analyzer\PCI Analyzer\obj\Debug\netcoreapp3.1\PCI Analyzer.dll
 D:\Projects AMK\Diestrassen\PCI Analyzer\PCI Analyzer\PCI Analyzer\obj\Debug\netcoreapp3.1\PCI Analyzer.pdb
 D:\Projects AMK\Diestrassen\PCI Analyzer\PCI Analyzer\PCI Analyzer\obj\Debug\netcoreapp3.1\PCI Analyzer.genruntimeconfig.cache
+D:\Projects AMK\Diestrassen\PCI Analyzer\PCI Analyzer\PCI Analyzer\bin\Debug\netcoreapp3.1\Data\sourceMap.json
+D:\Projects AMK\Diestrassen\PCI Analyzer\PCI Analyzer\PCI Analyzer\bin\Debug\netcoreapp3.1\web.config
+D:\Projects AMK\Diestrassen\PCI Analyzer\PCI Analyzer\PCI Analyzer\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
